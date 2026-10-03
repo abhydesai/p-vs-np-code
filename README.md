@@ -10,13 +10,13 @@ numbers add up to a target?
 | Folder | What it holds |
 |---|---|
 | [`01-subset-sum/`](./01-subset-sum/) | Video 01: `subset_sum.py`, a solver that tries subsets and a verifier that checks a proposed answer in one pass |
-| [`03-subset-sum-dp/`](./03-subset-sum-dp/) | Video 03: `subset_sum_dp.py`, the reachable-sums dynamic program, pseudo-polynomial in the target |
+| [`04-subset-sum-dp/`](./04-subset-sum-dp/) | Video 04: `subset_sum_dp.py`, the reachable-sums dynamic program, pseudo-polynomial in the target |
 
-Video 02 shows no code.
+Videos 02 and 03 show no code.
 
 ```bash
 cd 01-subset-sum && python3 subset_sum.py
-cd 03-subset-sum-dp && python3 subset_sum_dp.py
+cd 04-subset-sum-dp && python3 subset_sum_dp.py
 ```
 
 One folder per video, named for it, holding that video's code exactly as shown on screen.
